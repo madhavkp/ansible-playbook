@@ -1,0 +1,3 @@
+- name: install httpd
+  yum: name=docker state=installed
+
